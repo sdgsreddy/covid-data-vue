@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class = "dummy">COVID DATA ANALYSIS</div>
-    <a href="https://proud-tan-tank-top.cyclic.app/about">About Me</a>
+    <a href="https://proud-tan-tank-top.cyclic.app/">About Me</a>
     <CovidData :statesData = "statesData"></CovidData>
   </div>
 </template>
